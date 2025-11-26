@@ -11,3 +11,15 @@
 - 그룹 : - (①)
 8. 파일 시스템 관리 :
 9. 네트워크 관리 :
+## 2.1. 명령어 종류
+1. 파일 관리 : `ls`, `cd`, `mkdir`, `rmdir`, `touch`, `vi`, `cat`, `mv`, `rm`, `find`
+2. 쉘 : `chsh`, `echo`, `export`, `alias`, `unalias`, `history`
+3. 파일 액세스 관리 : `chmod`, `umask`, `chown`
+4. 패키지 관리 :
+5. 아카이빙/압축 : `tar`, `gzip`, `gunzip`, `bzip2`, `bunzip2`
+6. 프로세스 : `ps`, `pgrep`, `kill`, `sleep`, `jobs`, `fg`, `bg`
+7. 시스템 사용자 관리
+- 사용자 : `useradd`, `usermod`, `userdel`, `passwd`, `su`
+- 그룹 : `groupadd`, `groupmod`, `groupdel`, `gpasswd`, `newgrp`
+8. 파일 시스템 관리 : `fdisk`, `mkfs`, `dd`, `df`, `du`, `mount`, `umount`
+9. 네트워크 관리 : `nmcli`, `ip`, `route`, `ping`, `traceroute`, `netstat`, `nmap`, `ufw`
